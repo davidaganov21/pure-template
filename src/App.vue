@@ -16,10 +16,10 @@
 
 <script>
 export default {
-  name: `Pure${this.name}`,
+  name: "Pure Template",
   data() {
     return {
-      name: "Rating"
+      name: "Template"
     };
   }
 };
